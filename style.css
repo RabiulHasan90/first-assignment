@@ -1,0 +1,89 @@
+
+body{
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+
+header{
+  display: flex;
+ 
+  align-items: center;
+  padding: 0 240px;
+  background: rgba(229, 84, 115, 0.10);
+}
+.header-title{
+  color: #272727;
+  font-family: Lato;
+  font-size: 80px;
+  font-weight: 800;
+  
+
+}
+.btn-shop{
+  border-radius: 8px;
+  background: #E55473; 
+  color: #FFF;
+  border: 0px;
+  font-size: 20px;
+  padding: 20px 43px;
+  font-weight: 700;
+
+}
+
+.header-img{
+  width: 635px;
+}
+.header-column1{
+  margin-top: 100px;
+}
+.header-desc{
+  color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px; 
+padding-top: 32px 0px;
+}
+.sell {
+  display: flex;
+ justify-content: space-around;
+  align-items: center;
+  border-radius: 8px;
+
+background: rgba(229, 84, 115, 0.05);
+}
+.sell-about{
+
+}
+.sell-img{
+
+}
+.insta-pic{
+  display: flex;
+  padding: 0 240px;
+  
+  justify-content: space-between;
+}
+.insta-title{
+  color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal; 
+}
+.insta-desc{
+  color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; 
+
+text-align: center;
+
+
+
+
+}
+
